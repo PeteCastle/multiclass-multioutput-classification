@@ -1,0 +1,10 @@
+pandas
+translate==3.6.1
+langdetect==1.0.9
+libretranslate==1.6.2
+nltk==3.9.1
+scikit-learn
+seaborn
+Imbalanced-learn==0.12.4
+numpy
+git+https://github.com/phiyodr/multilabel-oversampling
